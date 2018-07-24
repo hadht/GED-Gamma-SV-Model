@@ -1,0 +1,9 @@
+##
+##  The GED-GAMMA SV MODEL 
+##
+
+INSTRUCTONS:
+The codes and data in the file "Petro3-Codes" are used to fit the GED-GAMMA SV MODEL to Petro3 Series.
+The codes and data in the file "Pound-Dollar-Codes" are used to fit the GED-GAMMA SV MODEL to Pound-Dollar Series.
+The codes were built in Ox language.
+The graphs were built in the R software.
